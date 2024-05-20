@@ -1,0 +1,48 @@
+body{
+    
+    background: url(/otopark_otomasyonu/admin/img/arka.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+#rr{
+    margin-top: 150px;
+    opacity: 0.8;
+}
+
+#baslik{
+    font-size: 55px;
+    margin-top: 10px;
+    margin: 20px;
+}
+#adminGirisYap{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+#card{
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-color: #eeee;
+}
+
+#rrr{
+    margin:150px auto;
+    opacity: 0.8;
+  
+}
+.header .cikis{
+    position: absolute;
+    right: 25px;
+    top:10px;
+}
+.header .parkedenarac{
+    position: absolute;
+    left: 25px;
+    top:10px;
+}
+.arka{
+    width: auto;
+    height: 1000px;
+
+}
